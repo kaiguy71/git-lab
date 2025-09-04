@@ -65,5 +65,13 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 "
 
-Answer 10:
+Answer 10: No, the commit was not updated locally.
+
+Answer 11: I received an error because there is online work that I do not have locally.
+
+Answer 12: Yes, the changes are now reflected in the local file.
+
+Answer 13: 
+".  ..  .git  .gitignore  README.md
+"
 
